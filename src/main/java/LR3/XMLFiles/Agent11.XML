@@ -1,0 +1,15 @@
+<cfg>
+    <AgentName>Agent11</AgentName>
+    <InitiationMark>false</InitiationMark>
+    <DestinationMark>false</DestinationMark>
+    <NeighboursArray>
+        <neighbour>Agent9</neighbour>
+        <neighbour>Agent10</neighbour>
+        <neighbour>Agent12</neighbour>
+    </NeighboursArray>
+    <WeightArray>
+        <weight>10</weight>
+        <weight>14</weight>
+        <weight>11</weight>
+    </WeightArray>
+</cfg>

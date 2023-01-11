@@ -1,0 +1,30 @@
+<cfg>
+    <ConsumerName>Consumer5</ConsumerName>
+    <Power100percent>12.6</Power100percent>
+    <PowerConsumptionList>
+        <power>50</power>
+        <power>50</power>
+        <power>20</power>
+        <power>20</power>
+        <power>40</power>
+        <power>40</power>
+        <power>80</power>
+        <power>80</power>
+        <power>100</power>
+        <power>100</power>
+        <power>80</power>
+        <power>80</power>
+        <power>80</power>
+        <power>80</power>
+        <power>80</power>
+        <power>80</power>
+        <power>100</power>
+        <power>100</power>
+        <power>90</power>
+        <power>90</power>
+        <power>70</power>
+        <power>70</power>
+        <power>70</power>
+        <power>50</power>
+    </PowerConsumptionList>
+</cfg>
